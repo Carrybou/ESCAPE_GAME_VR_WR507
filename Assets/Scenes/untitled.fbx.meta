@@ -1,0 +1,2129 @@
+fileFormatVersion: 2
+guid: fb590aa21792bd846b5435cc76ddeaca
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo
+    second: {fileID: 2100000, guid: 3a9ba053df5378247af623435b6b8aa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.007
+    second: {fileID: 2100000, guid: c853fb1314646a345b977d46f9b6b11f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.008
+    second: {fileID: 2100000, guid: 445351dc05ae64b4cb51b7267064e92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.009
+    second: {fileID: 2100000, guid: 6a836483f13c7c946915a9d150ce1e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.022
+    second: {fileID: 2100000, guid: b4d5d51ae1f348940be9443eaf175339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.023
+    second: {fileID: 2100000, guid: f08fbfcb3fec892479fe120e7a0e59b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.024
+    second: {fileID: 2100000, guid: ff9a7f1841ccb3d4984a6501c16d952a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.025
+    second: {fileID: 2100000, guid: 32b6c213cd0c60d4fa1ae09d13c8054b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.026
+    second: {fileID: 2100000, guid: 2cc3d86095d05c1458f31c369876997a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.027
+    second: {fileID: 2100000, guid: faf2b4f7ed3396a46ba6443487a837d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.028
+    second: {fileID: 2100000, guid: 900b830830e55f74285c055e6a4bb09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.029
+    second: {fileID: 2100000, guid: 1605e0f27f97ee64e876fdf7a72102b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.030
+    second: {fileID: 2100000, guid: d7cdffb49a8688d41bb4788d908c0d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.031
+    second: {fileID: 2100000, guid: 160f5cf5177a57f4a8afb122cb416a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.032
+    second: {fileID: 2100000, guid: f4d94498f86bc0e43bac794978e9d7e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blender Logo.033
+    second: {fileID: 2100000, guid: ae82405dbf6453542b80087d37d2d1a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box
+    second: {fileID: 2100000, guid: 5ef3daf8c1982df44a6b5c6e0f4732e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase
+    second: {fileID: 2100000, guid: b2d2797bb6c698340ac9a45cb26d5034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.002
+    second: {fileID: 2100000, guid: 849132620123c6f4390df965c99ad717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.003
+    second: {fileID: 2100000, guid: c65ccab8c37f05c4b8077121e9905745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.011
+    second: {fileID: 2100000, guid: c8abb79eb3c843941a7401d270753abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.012
+    second: {fileID: 2100000, guid: 12a7f6076564c0a48a9f99e3e514aaaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.013
+    second: {fileID: 2100000, guid: a1e1045bca3b4db409086b0ede9280c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.030
+    second: {fileID: 2100000, guid: 64c5638b36a2f5e4083254ccbb603952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.031
+    second: {fileID: 2100000, guid: 36b29d82ebcd07142a6b7793835fde73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.032
+    second: {fileID: 2100000, guid: 91bce00ae7569bc43976a97ec815dcd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.033
+    second: {fileID: 2100000, guid: 5c5dbea0c219c8542bd871ba872370a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.034
+    second: {fileID: 2100000, guid: f048fe10d5d4d2946b1a3f1e2168f1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.035
+    second: {fileID: 2100000, guid: ea864f14a1dda7e41905516bc43f7bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.036
+    second: {fileID: 2100000, guid: b93eae22540887e4ab334e33738eea79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.037
+    second: {fileID: 2100000, guid: f9b7a25e0b14d9c4e87c665fa85cdae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.038
+    second: {fileID: 2100000, guid: a9f0fa5d76747a947874d0d77314930b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerCase.039
+    second: {fileID: 2100000, guid: 029ebdf0ff0d277469f1c5c2c8599b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission
+    second: {fileID: 2100000, guid: 0dfba33238423ad48a73641c7d15a78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emission.001
+    second: {fileID: 2100000, guid: 4e0b849c538b252409ee6c1e9c7556bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print
+    second: {fileID: 2100000, guid: 79779771b2b4f8745a955cfbe4a2d6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.002
+    second: {fileID: 2100000, guid: e184b2db09542484684e3ac9bebf7e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.011
+    second: {fileID: 2100000, guid: 8821fe6fd014bff4d91477b164be519d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.012
+    second: {fileID: 2100000, guid: ee757277d3bf46344903839cefb5d42a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.013
+    second: {fileID: 2100000, guid: 457fe0a79633f1541a5ee394d8464cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.030
+    second: {fileID: 2100000, guid: 49f7d9e480e3bf1418b19435d55df167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.031
+    second: {fileID: 2100000, guid: 62ec4d79dcce2554e8de845db9bbf039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.032
+    second: {fileID: 2100000, guid: e7e1e105e26690343b3612d7ce350e2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.033
+    second: {fileID: 2100000, guid: 37da844b89b4c1c4ea6f81c71bac16c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.034
+    second: {fileID: 2100000, guid: 0d56190f2dbe6a741a8951e1399416a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.035
+    second: {fileID: 2100000, guid: dad76430754211b41ad9ea2a187e520d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.036
+    second: {fileID: 2100000, guid: 8531317bbdb5e2a41b2372490d746425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.037
+    second: {fileID: 2100000, guid: e32be3bebd6f0d742b2fccffb2fb335c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.038
+    second: {fileID: 2100000, guid: 45a667f73bbf2534884a2f05ceac53b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.039
+    second: {fileID: 2100000, guid: a20aff8437408634b8a2feabea0537c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard print.040
+    second: {fileID: 2100000, guid: 5db2c8ddb96ba194a85c46e720ada2ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric
+    second: {fileID: 2100000, guid: 8a0e25fae21990d468c86a70947ac7b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.001
+    second: {fileID: 2100000, guid: ae525cddfafc5e04aa6fd7b88aefc071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.002
+    second: {fileID: 2100000, guid: 2f7119eca0220184a8264b5500334680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.003
+    second: {fileID: 2100000, guid: a4849dbfd6700f843871fd6189cfead7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.004
+    second: {fileID: 2100000, guid: e0924509704610544b0c9cd1cca750ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.005
+    second: {fileID: 2100000, guid: 3e1d1c4a74d646c46b667f98c96b73de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.006
+    second: {fileID: 2100000, guid: 85f89fb289283844dbd76365daf17c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.007
+    second: {fileID: 2100000, guid: bb1675292ad4650449a565a80e9a735b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.008
+    second: {fileID: 2100000, guid: 5c5e28c98d377204f97b215bce32c615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.009
+    second: {fileID: 2100000, guid: c165a89db4cc9d748a3507a687ed89ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.010
+    second: {fileID: 2100000, guid: fb765b5dc01408a4b83917fcf774dbc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.011
+    second: {fileID: 2100000, guid: 3df0be477f5b221439f670e9615b83f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.012
+    second: {fileID: 2100000, guid: e0c9d54bb9235ce4abd7306b5fd57bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.013
+    second: {fileID: 2100000, guid: df59355af87513749871b78142a65720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.014
+    second: {fileID: 2100000, guid: c9d2ceb5c9f86c34f93c6bbc88f91daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_fabric.015
+    second: {fileID: 2100000, guid: d20645f0744a82b428b3e58b02c2c414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood
+    second: {fileID: 2100000, guid: 93473c1e469dbc54b8be2163917bc0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.001
+    second: {fileID: 2100000, guid: 2b2889b970cda7546badc751b4469879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.002
+    second: {fileID: 2100000, guid: 83a2dc5a109292a42a1655af3a6a2ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.003
+    second: {fileID: 2100000, guid: cd96c5405945e324dbf206742628e8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.004
+    second: {fileID: 2100000, guid: 60cbc0da5cb07e0479d5434fcd62ec1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.005
+    second: {fileID: 2100000, guid: 06203e3569e5fda4d9c1a288f39aa098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.006
+    second: {fileID: 2100000, guid: 4f66566b22754b44b96ae7d0b591de87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.007
+    second: {fileID: 2100000, guid: 4f27fc617fae03c4eb562e12845bf2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.008
+    second: {fileID: 2100000, guid: a112476132835d2409cfa0047f8dfdc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.009
+    second: {fileID: 2100000, guid: 896c40b19615b6742a6417afd9473fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.010
+    second: {fileID: 2100000, guid: 8b90e0b7aa9a1c34e8c3e0b9eeb3492b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.011
+    second: {fileID: 2100000, guid: f0c06d3b3cde02144b269b6631be7bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.012
+    second: {fileID: 2100000, guid: bd25f1ceff4e8d245adaa1b184f4fab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.013
+    second: {fileID: 2100000, guid: 13db55158a220b341b18a5f4edb3ca1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.014
+    second: {fileID: 2100000, guid: 9d2aba456de30b847b1e1f1f4378a402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEME_wood.015
+    second: {fileID: 2100000, guid: 658ed4f1b12bfa5468b47260e194dd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf
+    second: {fileID: 2100000, guid: 3b456fdd8a0cf2c44803c3117903601c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble grey
+    second: {fileID: 2100000, guid: bea3e91c6aab2be4ea0a7edaf7d63d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: fc1249f9b9b459a46a56a387718e1328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: dc252024f184e2549aca682029d71dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 3b6c6e2c640055b458d16a1f486e496d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 179aabea753c7d94ea4dccf4968cdb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 5103776f4896b36449555a89a7ce0eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 0df8b035bc9eedb459021ea966bf6f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 27e286f19566e744bb5081e11c3f66d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: f4fb96d4a581a0543ab20c3ea3178ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: fe6dace0d5633ab42803612725f8ce32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 5da81af741717914fb167c83e85a3ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 92efb833e74df2b46bdb7b70d42cc1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 086cee36a7064f94caa83eea2ff8a599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 84e474d372a290e4f9977aff22bca893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 1258a6dbc46d10d40a4592d2dcd38404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: f13b32339f5543b44a94a8eabb8c46dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.066
+    second: {fileID: 2100000, guid: 5dbf082fce1608544a33018c025ccb97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.067
+    second: {fileID: 2100000, guid: a232efe883fd0b6488c44d1a031d2e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.068
+    second: {fileID: 2100000, guid: 73a8b3c340340cf48a1e74b78d1084bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.069
+    second: {fileID: 2100000, guid: 3dcfaa07d95c414479e1e6229bcc7ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.070
+    second: {fileID: 2100000, guid: 44f5d29f5799b3c44b83bd3b8c6c275b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.071
+    second: {fileID: 2100000, guid: 1646bb2097d14ac4f99737b4328a6c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.072
+    second: {fileID: 2100000, guid: 8e7ae848ee13b65478e477e2708c26d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.073
+    second: {fileID: 2100000, guid: f3da8329668e0a746b8da93fd4f2ca82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.074
+    second: {fileID: 2100000, guid: 48b83ed837535ab4d96b0cd8f69aaee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.075
+    second: {fileID: 2100000, guid: b1ee4d14133f3ff4b8326a1c8013818d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.076
+    second: {fileID: 2100000, guid: 9c4632bdb813739438cae26fcccb3088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.077
+    second: {fileID: 2100000, guid: 6c1a318e264707b48940c32281638e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.078
+    second: {fileID: 2100000, guid: 3cac12ec74369dc4fb17dcd1f4cb0896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.079
+    second: {fileID: 2100000, guid: 50c20254cb4eb824ebfb7b75493ab17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.080
+    second: {fileID: 2100000, guid: 6a4b3cae86ba92b4ca5da096774460d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.081
+    second: {fileID: 2100000, guid: 945ca49aff672fd4f88fa535f08bd19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.082
+    second: {fileID: 2100000, guid: ca34cba6db800a042b1970b06eaaeaf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.083
+    second: {fileID: 2100000, guid: 2e7dfb16365ab67438548692af4d0bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.088
+    second: {fileID: 2100000, guid: b3650ff030702d448b4405c8b3b28119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.089
+    second: {fileID: 2100000, guid: c45167a64997d1946bb3bc355637dfee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.090
+    second: {fileID: 2100000, guid: 8dfad415651c97942ab72e320f4aac21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.091
+    second: {fileID: 2100000, guid: f8ae3d5ad16428642a2b3d0bb077a064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster
+    second: {fileID: 2100000, guid: ccf4644a62da19241ac38349f52f6a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rough Iron Steel
+    second: {fileID: 2100000, guid: 04ee8ef99dcdbf142a3cea99e7d224e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simple light wood
+    second: {fileID: 2100000, guid: 7c644997668dc91469e67f80362d6df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star
+    second: {fileID: 2100000, guid: f5366138b077ad04695003ae78867fb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Velvet Grey
+    second: {fileID: 2100000, guid: e91d809ca120a3140b0ae11fe4810c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Velvet Grey.001
+    second: {fileID: 2100000, guid: 16f033fc72aa1ed4991e407d3b27f7c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire
+    second: {fileID: 2100000, guid: 96070154d72c2734b9a37d2c0204bd5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Trunk
+    second: {fileID: 2100000, guid: 6b58feada53bdde41b84add8bf00fa0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood.001
+    second: {fileID: 2100000, guid: 557e9ac135a52e342a096fac2e3a5d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: case metal
+    second: {fileID: 2100000, guid: 90a727c4491bab94aa8f1c4dff9877ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.003
+    second: {fileID: 2100000, guid: 25a31295ef356ac40a7af222404c64b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.005
+    second: {fileID: 2100000, guid: ee443733f6ac73141b8ac4b26ecb37dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.007
+    second: {fileID: 2100000, guid: 79d0b175ae421d84cba79b82ff52686d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.010
+    second: {fileID: 2100000, guid: e1824be3b3544cc428e76ba753249152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.030
+    second: {fileID: 2100000, guid: 6cdb5f12411c542469b6e6c0bbf68656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.031
+    second: {fileID: 2100000, guid: 35c3c0c72ffbb864e92d28808392ebb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.032
+    second: {fileID: 2100000, guid: b904a7d6d16bfda45b4b0bbee54ba94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.033
+    second: {fileID: 2100000, guid: 47ebe1474a5369c41a57423dee789745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.034
+    second: {fileID: 2100000, guid: ed336466b8666a4498061e9b3086c0c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.035
+    second: {fileID: 2100000, guid: f638933fa9603b84ca04de816326befe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.036
+    second: {fileID: 2100000, guid: 8131371af445c9e4eb9d8b3d251bfa37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.037
+    second: {fileID: 2100000, guid: 743f1f3354bec6545a1e9dfe75355c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.038
+    second: {fileID: 2100000, guid: ec7e3878356ed264cbc12e029b66905c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.039
+    second: {fileID: 2100000, guid: f89e1cca94428f34c937cd50280a450c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.040
+    second: {fileID: 2100000, guid: a0d24b1e69440bd4c8caad25937cc576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma bok.041
+    second: {fileID: 2100000, guid: 05b9e36c65b09b8479e66c9751db446e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout
+    second: {fileID: 2100000, guid: 5b538dddcbf0ac54192a508f7241d94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.007
+    second: {fileID: 2100000, guid: f595d2efba44f4446acb89b6918864dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.008
+    second: {fileID: 2100000, guid: 1779dc851509c2b4d9030b270133b895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.009
+    second: {fileID: 2100000, guid: d7e26ff093b562046a91f536c7219386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.022
+    second: {fileID: 2100000, guid: cbcce08d81c1c604db021ddcc473a006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.023
+    second: {fileID: 2100000, guid: 993590406a9574848a784981f03eb393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.024
+    second: {fileID: 2100000, guid: 270c0f409f7159c4aaa9c4e80afd5653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.025
+    second: {fileID: 2100000, guid: 230e35a8ceb186c479ef3bbc87599003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.026
+    second: {fileID: 2100000, guid: 5fb08782f5c6d0c4b9057ab214f9386e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.027
+    second: {fileID: 2100000, guid: 809ae2deb857f7a418343d2a3034e1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.028
+    second: {fileID: 2100000, guid: 7cfe075eb0422eb4895d035d159f5a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.029
+    second: {fileID: 2100000, guid: 8275f2ada574bca43954b22f6c0e927e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.030
+    second: {fileID: 2100000, guid: ce97a7e1ed467f742b18e17128206f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.031
+    second: {fileID: 2100000, guid: faa2e121fcd98b641ac518ed54697e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.032
+    second: {fileID: 2100000, guid: 1dbf2f2d26e1d8e4484e814ac797c4dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters layout.033
+    second: {fileID: 2100000, guid: c7f88b8757c9c7d40a7bb894468fa5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.001
+    second: {fileID: 2100000, guid: 1e445646516a4524bb372633838fa0fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.004
+    second: {fileID: 2100000, guid: a6a4964bb2801a74ead15a85f01b2ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.005
+    second: {fileID: 2100000, guid: 1cb1226607d94d547a8c7350cd0bbeb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.012
+    second: {fileID: 2100000, guid: 98ec46941de5e1944aa74a8e01f2ed71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.013
+    second: {fileID: 2100000, guid: 87ee41d93bf63c34f88d15c057383cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.014
+    second: {fileID: 2100000, guid: 3e0b428f7a73b1c4bb66ddb075f71839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.015
+    second: {fileID: 2100000, guid: 4eb44ed5586946b4bb94eec5af5d9cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.016
+    second: {fileID: 2100000, guid: a5498237ec10da548b8996f34c1b17cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.017
+    second: {fileID: 2100000, guid: 2a099a3b25fe3374f8752f85f192624f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.018
+    second: {fileID: 2100000, guid: fc1511c018ef68e44b1caf7f6576cd55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.019
+    second: {fileID: 2100000, guid: f05d018eb99a53e49ad91d5c54a12012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.060
+    second: {fileID: 2100000, guid: dcc9028ab23fcc74c8202a6f376d7638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.061
+    second: {fileID: 2100000, guid: 9faf64466ba9f4b48a7f2efe1e906d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.062
+    second: {fileID: 2100000, guid: 57981f82289770447850bf544d10f538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.063
+    second: {fileID: 2100000, guid: 7631c572201e60e4a95d857f0314ac17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.064
+    second: {fileID: 2100000, guid: 22f797214a2359941839c5f11d6134e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.065
+    second: {fileID: 2100000, guid: ee75c5031fff3344aba8fa2384667658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.066
+    second: {fileID: 2100000, guid: 5bb013f9105fdd84798c89219247937a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.067
+    second: {fileID: 2100000, guid: a98c5d0077a2b5040812529ac48a8a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.068
+    second: {fileID: 2100000, guid: 1869b69685b1b014fbed6781c67c5c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.069
+    second: {fileID: 2100000, guid: 6b11bbc1f0ad6df479c0cede84f29971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.070
+    second: {fileID: 2100000, guid: 27e5bfac25474e645bcf7e0a290ecf09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.071
+    second: {fileID: 2100000, guid: b3924fe22c3b61149b3083f1b28fc339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.072
+    second: {fileID: 2100000, guid: 47c98e7131c32df48a752cfffbaaa72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.073
+    second: {fileID: 2100000, guid: 8f2f949f5db1f4a4a84417f79b7fd768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.074
+    second: {fileID: 2100000, guid: a5361a6cb8f83c4498ae426004dee64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.075
+    second: {fileID: 2100000, guid: 046afbd05fcd26d488d5460c3b14f912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.076
+    second: {fileID: 2100000, guid: 16aa1a26ec3e54749b5d7f7e8dcaa2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.077
+    second: {fileID: 2100000, guid: 369b2f41210f74247b160ed863ed394a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.078
+    second: {fileID: 2100000, guid: d69271a678693cf41b9f13ad41249d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.079
+    second: {fileID: 2100000, guid: 19bc77a83d400fa48be118423a61ec16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_body texture.080
+    second: {fileID: 2100000, guid: ed3829bc0cd0387438c5072886286ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.001
+    second: {fileID: 2100000, guid: 4a15b95b78600d64d8ef16f2518c8eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.004
+    second: {fileID: 2100000, guid: 2b5ad5e5084512e4a8e16a9f54938b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.005
+    second: {fileID: 2100000, guid: 80527d120feedaf4caa8ebdc76c3f63e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.012
+    second: {fileID: 2100000, guid: 9276a396e4436e447b4ff937a1f7e8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.013
+    second: {fileID: 2100000, guid: 4fa76a63e90b4204bb6f6ee0c643a4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.014
+    second: {fileID: 2100000, guid: 0af1b3892e3a97b409ff41cce0ba1937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.015
+    second: {fileID: 2100000, guid: 664b8fe159521a146bba6236d28b02ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.016
+    second: {fileID: 2100000, guid: 8646f8e7901171e4aa16733d77393115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.017
+    second: {fileID: 2100000, guid: 4d868b37d723f344fac5299ee4c7d982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.018
+    second: {fileID: 2100000, guid: e86a1b0fa9ba26c4b8f15dac07ddc394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.019
+    second: {fileID: 2100000, guid: c57bf91a9fa184d479495ef7b64a0cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.060
+    second: {fileID: 2100000, guid: 0e7394a05582d0347b12594909c6febc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.061
+    second: {fileID: 2100000, guid: f3f93f29d4d11b94d9e201ee47afa89e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.062
+    second: {fileID: 2100000, guid: 98d24b3b2f8ca294d8307dc47f62e0f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.063
+    second: {fileID: 2100000, guid: cebe342ef59c3f2468b1d6bcc47082ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.064
+    second: {fileID: 2100000, guid: 810603f6824035e43809cb8e9755773b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.065
+    second: {fileID: 2100000, guid: e14bb77750f4f1143b19fb8e1cda7115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.066
+    second: {fileID: 2100000, guid: 91695b3e364443e40a26879a6af68112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.067
+    second: {fileID: 2100000, guid: 345db4deca93b4841ae3f3ca4d5e4d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.068
+    second: {fileID: 2100000, guid: 6ba5070a9cf06514394a4298a6e28cea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.069
+    second: {fileID: 2100000, guid: d61217ec5e29d444e87764fd149aeb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.070
+    second: {fileID: 2100000, guid: 5b00fc187edfb1348ab5a652801954c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.071
+    second: {fileID: 2100000, guid: eb7f6fc643b793e419e04967cadee018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.072
+    second: {fileID: 2100000, guid: cbeed4aef76e5c842bb184c17f217ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.073
+    second: {fileID: 2100000, guid: f5f0607f95e39534fa55488d81378881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.074
+    second: {fileID: 2100000, guid: f71c98356ff69fa4494223447390aa43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.075
+    second: {fileID: 2100000, guid: cb174d86db416af4f9b30350162de38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.076
+    second: {fileID: 2100000, guid: 4da34af54abcfc14baa6de983b6e883d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.077
+    second: {fileID: 2100000, guid: 48cf74f57b4c5424a81ffe3f89ad4247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.078
+    second: {fileID: 2100000, guid: 996cb4c2c1aacc34b8dbfa00df4d907b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.079
+    second: {fileID: 2100000, guid: ac6bd657198c00742922cd4ad7c5db75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_buttons.080
+    second: {fileID: 2100000, guid: 3dba517ffde3f22409e55aa2c5c1ff92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.001
+    second: {fileID: 2100000, guid: fdccdee76b0c6d04a97d606b6096f825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.004
+    second: {fileID: 2100000, guid: 31d52a9f002892643938bc09a7789f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.005
+    second: {fileID: 2100000, guid: 3d56b9bb79a33e0419a12808feab8f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.012
+    second: {fileID: 2100000, guid: 43976c7a1f742e741909560f00d72b4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.013
+    second: {fileID: 2100000, guid: 9b5952cfb878399418e11a9a7c04ddb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.014
+    second: {fileID: 2100000, guid: 3c5ddc32f34c16540bee81dd0e3a1230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.015
+    second: {fileID: 2100000, guid: 84233c2b5444dbe49af129b803871274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.016
+    second: {fileID: 2100000, guid: eb7b8f05c41dba947b3633ba28a65f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.017
+    second: {fileID: 2100000, guid: aa7fbb97c8554aa45958133da1ce08f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.018
+    second: {fileID: 2100000, guid: abf2f2f3e34e3e243b25eb5139c9e8c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.019
+    second: {fileID: 2100000, guid: 02e66c5203dd23b44908d2b22372f3ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.060
+    second: {fileID: 2100000, guid: 52626d7350a3151409e25117041d450a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.061
+    second: {fileID: 2100000, guid: e14783cf701d30f4ead0f65b73e78f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.062
+    second: {fileID: 2100000, guid: d9f8508dde4362d449fce3e4785c0507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.063
+    second: {fileID: 2100000, guid: cc30be735ba9f464796a25c5e223ccc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.064
+    second: {fileID: 2100000, guid: 9575edc2d52a8fa4b85e8f3d04b755cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.065
+    second: {fileID: 2100000, guid: 4eaac892ebcaaef4a98d9d6151561f2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.066
+    second: {fileID: 2100000, guid: 4e434a1953f708e4f902ad90a7027e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.067
+    second: {fileID: 2100000, guid: e9f89e8830f84f0479ad0d70fe29df59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.068
+    second: {fileID: 2100000, guid: d5cf680fefa4d8d408dd330f76d02157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.069
+    second: {fileID: 2100000, guid: 44c27349f1d17dd449bdfa716b5ae65b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.070
+    second: {fileID: 2100000, guid: e6cda4fb651f7e3418d3035c1a99638a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.071
+    second: {fileID: 2100000, guid: 0c9055c5a3005304bb0eb84bf1d8b9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.072
+    second: {fileID: 2100000, guid: c85d3f062654ace408af761c94e3199e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.073
+    second: {fileID: 2100000, guid: d55820ba4c3eb8b40a2992ca575809d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.074
+    second: {fileID: 2100000, guid: 56e6b45e76a34c845b7958e712b89af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.075
+    second: {fileID: 2100000, guid: aacef842764fd7c49ac36472052577e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.076
+    second: {fileID: 2100000, guid: 23c152e1835a1c346bc56bb457122871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.077
+    second: {fileID: 2100000, guid: 0ea09b6d15c368243a1a8e64688d3740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.078
+    second: {fileID: 2100000, guid: ac1f4856010045e4d86de77e5f6f4e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.079
+    second: {fileID: 2100000, guid: 9b780017577ea5f4e8167aba4e2e095b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_led.080
+    second: {fileID: 2100000, guid: 63ae40103ee976144b3802ec8ae03b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.001
+    second: {fileID: 2100000, guid: cd5f78f235e0bcf4293495ec470d0fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.004
+    second: {fileID: 2100000, guid: ed5cb5b7b0661204aa0351c0b3d363bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.005
+    second: {fileID: 2100000, guid: 3cbfa4de09ad7754a9ce5d363ecb6d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.012
+    second: {fileID: 2100000, guid: 4820aa28cb0554047aa0f0570795869f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.013
+    second: {fileID: 2100000, guid: 1203c6d8cfc531e4f804a5a1d7c6198f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.014
+    second: {fileID: 2100000, guid: 2839923a13cc9bc4785c58388a19f2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.015
+    second: {fileID: 2100000, guid: b594dd3c99ba5844584a0ba4808f6fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.016
+    second: {fileID: 2100000, guid: 1480b6cd7bb231440bf644a9dd35b5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.017
+    second: {fileID: 2100000, guid: 0e9641d803a2e2049b88079ab2c8b7c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.018
+    second: {fileID: 2100000, guid: 6aebc72d0c4d7b24caea27c109e942c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.019
+    second: {fileID: 2100000, guid: fac875e5c75049748bf4470c6ac74669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.060
+    second: {fileID: 2100000, guid: f2c73b462ab72604a92cff1bcfe32497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.061
+    second: {fileID: 2100000, guid: 8b2b6db2be2d60a44b66243f72a244f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.062
+    second: {fileID: 2100000, guid: bd191a595a1d7d14fb441015169cdb8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.063
+    second: {fileID: 2100000, guid: a46e272586c45e44182f7b3ee63ab5eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.064
+    second: {fileID: 2100000, guid: 87638c38509e1294193d13d80ee12712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.065
+    second: {fileID: 2100000, guid: 5c655162120c9424c8015569503d07af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.066
+    second: {fileID: 2100000, guid: 749e9fcca2687f046969de04a1e4d359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.067
+    second: {fileID: 2100000, guid: c3d52d6ad3b8aab4babf4a87b4f1ac3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.068
+    second: {fileID: 2100000, guid: 3fe8f5f9ef1f4f741946ed9f10661474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.069
+    second: {fileID: 2100000, guid: e29fed4c99eb9f04f9e3f43431ab0323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.070
+    second: {fileID: 2100000, guid: e68488ef649390647a4f93946a3bf4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.071
+    second: {fileID: 2100000, guid: c20e374ab166824489e9fba14484c01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.072
+    second: {fileID: 2100000, guid: ad6549ee389b56a4bb78c7513cddcf8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.073
+    second: {fileID: 2100000, guid: 7a275519184d513419897f4b03cbc951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.074
+    second: {fileID: 2100000, guid: 2e7c43fc61863af42b509f4263ff5fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.075
+    second: {fileID: 2100000, guid: 14dd27e863f9974499030f1e6c8c7e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.076
+    second: {fileID: 2100000, guid: 4d0000ac2b0ff4a4884eaf150a66f8f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.077
+    second: {fileID: 2100000, guid: 1a87e60b2b9385641a60463dfff02baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.078
+    second: {fileID: 2100000, guid: 1d5510df592e97a40950e5efc9e57743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.079
+    second: {fileID: 2100000, guid: b8bee4625abaabe4e917c3276bab0192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal 01.080
+    second: {fileID: 2100000, guid: a02d20f0b333bdc4bbb6eb9c66ec4f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.001
+    second: {fileID: 2100000, guid: 1cef8a660eeee1b47b6fbd4a1dc76dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.004
+    second: {fileID: 2100000, guid: 9968249cba972d64aa18e9418dffe3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.005
+    second: {fileID: 2100000, guid: d8b753feadf37754ca43d3fb87fa3738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.012
+    second: {fileID: 2100000, guid: c66800cf68b291d408a8eea85e078a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.013
+    second: {fileID: 2100000, guid: 51ed05c976564e84ba9dee87c9543a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.014
+    second: {fileID: 2100000, guid: 8c5273ca054d84644886008ddf746497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.015
+    second: {fileID: 2100000, guid: 1a283ad53d068e44aa70a31076251d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.016
+    second: {fileID: 2100000, guid: dc58f805c116d10419c680b1a06d1b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.017
+    second: {fileID: 2100000, guid: 775d1f70479b2094a98c09b411b5a5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.018
+    second: {fileID: 2100000, guid: 4750e7541ca8be34fbc2e8413701bb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.019
+    second: {fileID: 2100000, guid: a0f906806e17f9e4c8ca3192b1bad1ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.060
+    second: {fileID: 2100000, guid: e13524a78d1de874e9b3df43bec6e86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.061
+    second: {fileID: 2100000, guid: 4e87794ff2782ea4e85853d4ee11399f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.062
+    second: {fileID: 2100000, guid: 56ea8c2a2e9d4d740a72cb95eea4ede7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.063
+    second: {fileID: 2100000, guid: 5006054083e7fd742bc31c8d02104e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.064
+    second: {fileID: 2100000, guid: 7f9ff12a669b93c45a23cdc6368a7348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.065
+    second: {fileID: 2100000, guid: be2261f12ff0b0c4fadb8f582eccdf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.066
+    second: {fileID: 2100000, guid: 71f317b3b1e928e41bcbc58e2f2f8a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.067
+    second: {fileID: 2100000, guid: 7aea11e0bf1063a45870840cc11db9dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.068
+    second: {fileID: 2100000, guid: 664214fb58a89de45b114b5e8e250836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.069
+    second: {fileID: 2100000, guid: 5a5565a0cde460e418236ffc3e06d63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.070
+    second: {fileID: 2100000, guid: 3dd4e5b41f126fc44956a051a7072ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.071
+    second: {fileID: 2100000, guid: 6265aad407d5a134eb1d1f23fc560aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.072
+    second: {fileID: 2100000, guid: c38f66a15ef24a640ac7ca7b5f599e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.073
+    second: {fileID: 2100000, guid: 25946370a7723eb41a48f423f5ee2b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.074
+    second: {fileID: 2100000, guid: b7ae2f38342bc7d45b47f5bb8c052f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.075
+    second: {fileID: 2100000, guid: 18af48839861859489d8c5e2563b5e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.076
+    second: {fileID: 2100000, guid: 817723be64fa2e04e867c2e28e454096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.077
+    second: {fileID: 2100000, guid: 4c2d7ec5935da764db4be81d598c47a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.078
+    second: {fileID: 2100000, guid: 5d014becd7ab3fb4b8bd0017a8f74945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.079
+    second: {fileID: 2100000, guid: 5f77a2e32e79ff345a0ef29b2be0c88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_metal white.080
+    second: {fileID: 2100000, guid: 6bc715e981d4c5048a0433436856f019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.001
+    second: {fileID: 2100000, guid: 202063030ab6baa4ebf1c770f1539cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.004
+    second: {fileID: 2100000, guid: ea519ba0bc9460148a5a4f26a2de9c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.005
+    second: {fileID: 2100000, guid: e68ff809074e1e649a37281ffebb3deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.012
+    second: {fileID: 2100000, guid: fd30f3da398ef354483a7bccb74c699f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.013
+    second: {fileID: 2100000, guid: 0d3f78a06a4f6cc48ab9bb52c116d236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.014
+    second: {fileID: 2100000, guid: 28f77b5a2ca7b4e4b8b81ea443c6d2be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.015
+    second: {fileID: 2100000, guid: 9d56a622ca8b23c4c9684195f1bcda8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.016
+    second: {fileID: 2100000, guid: 92d621005456eb34288c6d68bf88edf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.017
+    second: {fileID: 2100000, guid: df8692cbdd967834a9d70407651d7de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.018
+    second: {fileID: 2100000, guid: d664d7c893c332b43a90caa29e77fb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.019
+    second: {fileID: 2100000, guid: 5797c5c9d69a72544a35b3293e1b98ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.060
+    second: {fileID: 2100000, guid: f678509eeb5322846b04ec44805f90af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.061
+    second: {fileID: 2100000, guid: e7ef978922d07dd488ee4bb2a5d61010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.062
+    second: {fileID: 2100000, guid: 5cc2d8533e78f8148b345ac274d3e3fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.063
+    second: {fileID: 2100000, guid: 42b20004cb28a2b42a7ee5e5654a075a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.064
+    second: {fileID: 2100000, guid: 565ae8218629055478938fb91fa639ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.065
+    second: {fileID: 2100000, guid: a917cd37b55fd0544bdf83c905e24d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.066
+    second: {fileID: 2100000, guid: 7d1b0f73e92735e489638619bc0e1c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.067
+    second: {fileID: 2100000, guid: ae04cb56cd34e2c4396205372b03024b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.068
+    second: {fileID: 2100000, guid: 94107fcb8577f4e488a2f082b3bd03e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.069
+    second: {fileID: 2100000, guid: a7d0634d58f77994e8225725ec4e9787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.070
+    second: {fileID: 2100000, guid: b1552a0ce3e2164439f7e31f60a9dd04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.071
+    second: {fileID: 2100000, guid: 5dd203c33e55c60428fe2c7dfad7ce92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.072
+    second: {fileID: 2100000, guid: 0ecdb03d088626144a92b6cd591aa971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.073
+    second: {fileID: 2100000, guid: 52d3b622563422441b63c52175eeaf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.074
+    second: {fileID: 2100000, guid: f02c912470e5ce743b7b30f21072811c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.075
+    second: {fileID: 2100000, guid: 0cce1bbd635dcd9429f6b83c810e861b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.076
+    second: {fileID: 2100000, guid: 5427d6bdcddab9f4a8ce2874216bb325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.077
+    second: {fileID: 2100000, guid: f53c31fb277f83c4c9dbdac67f09bf3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.078
+    second: {fileID: 2100000, guid: dc789d01242319b4a8176715b22bb487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.079
+    second: {fileID: 2100000, guid: f54892d33271bdd49b37a68637363d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_plastic.080
+    second: {fileID: 2100000, guid: 2c23c16f24a4b3248ac4cf0adf5fa446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.001
+    second: {fileID: 2100000, guid: b35ed9bf88d459042aa9c7a6de4c6165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.004
+    second: {fileID: 2100000, guid: 6958e95412e481f4299435e38545dc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.005
+    second: {fileID: 2100000, guid: 7f8271654fbb98640a4a97a0ab123326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.012
+    second: {fileID: 2100000, guid: fa5bdfcb46e7c884a902a896b878a279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.013
+    second: {fileID: 2100000, guid: d8f1d0d0e2698b441b44cf886f85ed8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.014
+    second: {fileID: 2100000, guid: f1fc7f5e1a2cea8418fed4e750234a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.015
+    second: {fileID: 2100000, guid: bb27d03aaaa1a6648896e4e12e618c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.016
+    second: {fileID: 2100000, guid: 8e4e1214010798e42b8b7e1c57026767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.017
+    second: {fileID: 2100000, guid: 467a78248e4c46d43bc00f1f2b25b672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.018
+    second: {fileID: 2100000, guid: f85a2f29bbd753247af630eb714a3ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.019
+    second: {fileID: 2100000, guid: d68dd3a75495ab74181c8718fdd892b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.060
+    second: {fileID: 2100000, guid: 2a25c65a560b9994a872abed4f7e24ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.061
+    second: {fileID: 2100000, guid: 5176b9729f6b9af4b850d050136f633f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.062
+    second: {fileID: 2100000, guid: 83aeb246d5c70ed419b4d360ea09229c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.063
+    second: {fileID: 2100000, guid: 7162748dab6d09943b35f71d7da8c8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.064
+    second: {fileID: 2100000, guid: fd61c70307a97a44788b4b455b9ecdb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.065
+    second: {fileID: 2100000, guid: 10dad78be68bb3246861777e8325d725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.066
+    second: {fileID: 2100000, guid: c4c876ab9aeb31f46b15d29a87197eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.067
+    second: {fileID: 2100000, guid: afb237959f0155b4ba4aba5cdfccd488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.068
+    second: {fileID: 2100000, guid: abae9625ad33f4f4495c3e2bcefdff76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.069
+    second: {fileID: 2100000, guid: 493d4ae3ccbb35846b5d492446743727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.070
+    second: {fileID: 2100000, guid: c3943367e5cf29142a9478c971f10653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.071
+    second: {fileID: 2100000, guid: 8e09a1409b4652b4fa259eb79d22ab19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.072
+    second: {fileID: 2100000, guid: 10a12bbbf5bce6446a0302feae8e4757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.073
+    second: {fileID: 2100000, guid: 70dd35d08bdc713448b153001f40e4d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.074
+    second: {fileID: 2100000, guid: a9e86bc53bfdf344d94d3401bee82462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.075
+    second: {fileID: 2100000, guid: a46955f6fb393f44ca1046dc1fa03918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.076
+    second: {fileID: 2100000, guid: 203135a4f16785d459a92770bbb72df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.077
+    second: {fileID: 2100000, guid: 2babab5bb4cadb04fb55465c4f901e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.078
+    second: {fileID: 2100000, guid: 1f865bd5c2ff99d49ba59ec09fdde4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.079
+    second: {fileID: 2100000, guid: 04b9121b31ef22e409c145d2a08c92e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_screen.080
+    second: {fileID: 2100000, guid: c6419bb3e68fab344ae9516b7ac48a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.003
+    second: {fileID: 2100000, guid: 7d16ffbb9bb15cc4ea454981a561a19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.005
+    second: {fileID: 2100000, guid: 9f45e4bd78474a249ae9f45c461d2e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.007
+    second: {fileID: 2100000, guid: 1aa47b60fd9a8624697394047aad5fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.010
+    second: {fileID: 2100000, guid: 891f78d47f0db984fa7b50cc23e9effd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.030
+    second: {fileID: 2100000, guid: af9b881d0c0d98c41a9e2581d3b3c0f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.031
+    second: {fileID: 2100000, guid: fc6b2c98cd88f6d4091d2aee6b5c2298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.032
+    second: {fileID: 2100000, guid: 920fd9a0a2fa6a6408305415363987a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.033
+    second: {fileID: 2100000, guid: 4aa5ab65d33086f4595471c5be1e2369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.034
+    second: {fileID: 2100000, guid: 7433ffdcfc5d0044592e71b92699dcfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.035
+    second: {fileID: 2100000, guid: f2f25d5e9e5f76c4ea9540215c5e9395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.036
+    second: {fileID: 2100000, guid: cfc9fb69e8f429347a131b96d0c08829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.037
+    second: {fileID: 2100000, guid: 05754913f8e428046b4e7748ac728ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.038
+    second: {fileID: 2100000, guid: 499228b728a583f49b08b8ba2b2a7dd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.039
+    second: {fileID: 2100000, guid: ffbb9acbfff356b499d47d9b37c8477c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.040
+    second: {fileID: 2100000, guid: 60f08d5ca6be1ba47b6740af70151397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mysz.041
+    second: {fileID: 2100000, guid: f3954aa045337164a8e9ccc67074e66d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
