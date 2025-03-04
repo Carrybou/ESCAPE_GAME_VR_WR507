@@ -1,69 +1,63 @@
 using UnityEngine;
-using System.Collections.Generic;
+using SBS.ME;
 
 public class BouleCassez : MonoBehaviour
 {
-    public Material interiorMaterial; // Matériau des parties intérieures cassées
-    public float breakForce = 5f;     // Force minimale pour casser
-    public bool containsKey = false;  // Si cette boule contient la clé
+    public float breakForce = 5f; // Force minimale pour casser
+    public bool containsKey = false; // Si cette boule contient la clé
+    public GameObject keyPrefab; // Préfab de la clé (à assigner dans l'Inspector)
+
 
     private bool isBroken = false;
-    private MeshDemolisher meshDemolisher;
+    private MeshExploder meshExploder; // Référence au script d'explosion
 
-    void Start()
+    private void Start()
     {
-        meshDemolisher = new MeshDemolisher();
+        // Récupère automatiquement le script MeshExploder attaché à la boule
+        meshExploder = GetComponent<MeshExploder>();
+
+        if (meshExploder == null)
+        {
+            Debug.LogError("MeshExploder non trouvé sur " + gameObject.name);
+        }
     }
 
     private void OnCollisionEnter(Collision collision)
     {
+        // Vérifie si l'impact est suffisant et que la boule n'est pas déjà cassée
         if (!isBroken && collision.relativeVelocity.magnitude > breakForce)
         {
-            BreakBall(collision.contacts[0].point);
+            BreakBall();
         }
     }
 
-    void BreakBall(Vector3 impactPoint)
+    void BreakBall()
     {
         isBroken = true;
 
-        // Création du point d'impact pour la cassure
-        GameObject breakPointObj = new GameObject("BreakPoint");
-        breakPointObj.transform.position = impactPoint;
-        List<Transform> breakPoints = new List<Transform> { breakPointObj.transform };
-
-        // Vérification si la cassure est possible
-        if (meshDemolisher.VerifyDemolishInput(gameObject, breakPoints))
+        // Active l'explosion via le script MeshExploder
+        if (meshExploder != null)
         {
-            List<GameObject> fragments = meshDemolisher.Demolish(gameObject, breakPoints, interiorMaterial);
-
-            // Ajouter des Rigidbody aux fragments pour qu'ils tombent naturellement
-            foreach (GameObject fragment in fragments)
-            {
-                if (!fragment.GetComponent<Rigidbody>())
-                {
-                    Rigidbody rb = fragment.AddComponent<Rigidbody>();
-                    rb.mass = 0.1f; // Masse faible pour un effet réaliste
-                }
-            }
-
-            // Si cette boule contient la clé, la faire apparaître
-            if (containsKey)
-            {
-                SpawnKey();
-            }
-
-            // Supprime l'objet original
-            Destroy(gameObject);
+            meshExploder.explodeNOW = true; // Suppose que la méthode s'appelle Explode()
         }
 
-        // Détruit le point de cassure temporaire
-        Destroy(breakPointObj);
-    }
+        // Si cette boule contient la clé, déclencher son apparition
+        if (containsKey)
+        {
+            SpawnKey();
+        }
 
+    }
     void SpawnKey()
     {
-        GameObject key = Instantiate(Resources.Load<GameObject>("KeyPrefab"), transform.position, Quaternion.identity);
-        key.GetComponent<Rigidbody>().AddForce(Vector3.up * 2f, ForceMode.Impulse);
+        if (keyPrefab != null)
+        {
+            Instantiate(keyPrefab, transform.position, Quaternion.identity);
+        }
+        else
+        {
+            Debug.LogError("Le prefab de la clé n'est pas assigné à " + gameObject.name);
+        }
     }
+
 }
