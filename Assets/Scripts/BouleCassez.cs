@@ -1,5 +1,6 @@
 using UnityEngine;
 using SBS.ME;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class BouleCassez : MonoBehaviour
 {
@@ -8,17 +9,29 @@ public class BouleCassez : MonoBehaviour
     public GameObject keyPrefab; // Préfab de la clé (à assigner dans l'Inspector)
 
 
+     private Rigidbody rb;
+    private MeshExploder meshExploder;
+    private XRGrabInteractable grabInteractable;
     private bool isBroken = false;
-    private MeshExploder meshExploder; // Référence au script d'explosion
 
     private void Start()
     {
-        // Récupère automatiquement le script MeshExploder attaché à la boule
+        rb = GetComponent<Rigidbody>();
         meshExploder = GetComponent<MeshExploder>();
+        grabInteractable = GetComponent<XRGrabInteractable>();
 
         if (meshExploder == null)
         {
             Debug.LogError("MeshExploder non trouvé sur " + gameObject.name);
+        }
+        // Désactive la gravité pour suspendre la boule
+        rb.useGravity = false;
+        rb.isKinematic = true; // Empêche les mouvements indésirables
+
+        // Ajoute un listener pour détecter le grab
+        if (grabInteractable != null)
+        {
+            grabInteractable.selectEntered.AddListener(OnGrab);
         }
     }
 
@@ -47,6 +60,12 @@ public class BouleCassez : MonoBehaviour
             SpawnKey();
         }
 
+    }
+     void OnGrab(SelectEnterEventArgs args)
+    {
+        // Active la gravité quand on attrape la boule
+        rb.useGravity = true;
+        rb.isKinematic = false;
     }
     void SpawnKey()
     {
